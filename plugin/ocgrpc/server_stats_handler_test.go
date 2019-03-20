@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"go.opencensus.io/trace"
-	"golang.org/x/net/context"
+	"context"
 
 	"go.opencensus.io/stats/view"
 	"go.opencensus.io/tag"

@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"go.opencensus.io/stats/view"
-	"golang.org/x/net/context"
+	"context"
 	"google.golang.org/grpc/metadata"
 
 	"go.opencensus.io/trace"
